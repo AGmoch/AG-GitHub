@@ -7,3 +7,4 @@ aby wyargumentować fragment kodu Ctrl + /
 
 (Windows) venv\Scripts\activate.bat
 python -m pytest
+xc
