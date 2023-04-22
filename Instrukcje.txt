@@ -1,0 +1,10 @@
+https://chat.openai.com/chat
+https://blog.qalabs.pl/pytest/pytest-pierwsze-kroki/
+https://docs.pytest.org/en/latest/contents.html
+https://docs.pytest.org/en/7.1.x/how-to/fixtures.html
+
+aby wyargumentować fragment kodu Ctrl + /
+
+(Windows) venv\Scripts\activate.bat
+python -m pytest
+xc
